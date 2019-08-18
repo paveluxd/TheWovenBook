@@ -1,0 +1,167 @@
+body{
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Roboto', 'Open Sans', 'Arial', sans-serif;
+    font-size: 16px;
+    color:var(--black);
+}
+
+:root {
+   --gold: rgb(190,150,85);
+   --black: rgb(51,51,51);
+   --grey: rgb(250,250,250);
+   --line: rgb(230,230,230);
+   --white: rgb(255,255,255);
+   --blue: rgb(100,100,255);
+   --b5: rgba(0,0,0,0.05);
+   --b38: rgba(0,0,0,0.38);
+   --b54: rgba(0,0,0,0.54);
+   --b87: rgba(0,0,0,0.87);
+   --red: linear-gradient(270deg, #E24033 0%, #CD4136 100%);
+}
+
+.container .container-fluid{
+   margin: 0 auto 0 auto;
+   overflow: hidden;
+   padding-top: 40px;
+}
+
+p {
+   margin:0 0 0 0;
+   line-height: 1.75;
+}
+
+h1 {
+   font-family: 'Grenze';
+   font-size: 36px;
+}
+
+.b5 {
+   background-color: var(--b5);
+   display: flex;
+   justify-content: center;
+}
+
+.cover-div {
+   background-repeat: no-repeat; 
+   background-position: center; 
+   width: 100%;
+}
+
+.cover-img {
+   margin-top: -90px;
+   background-image: url(img/cover.svg); 
+   background-size: initial;
+   position: absolute;
+   height: 1000px;
+   display: flex;
+   flex-direction: column;
+}
+
+.traveler-img {
+   background-image: url(img/travelers.svg);
+   background-size: cover; 
+   height: 20vw;
+}
+
+.alert-success {
+   position: fixed;
+   bottom:-7px;
+   left:8px;
+   width: 300px;
+   color: rgba(255,255,255,0.75);
+   background-color: var(--b54);
+   border:none;
+}
+
+.close {
+   color: rgba(255,255,255,.50);
+}
+
+/* Bootstrap overrides */
+
+.row {
+    padding: 0 0 40px 0;
+}
+
+.col-sm-8 {
+    max-width: 800px;
+}
+
+.col-sm-5 {
+    max-width: 464px;
+    margin: 0 0 0 0;
+}
+
+.sdw {
+    width: 647px;
+    box-shadow: 0px 1px 3px rgba(216, 141, 141, 0.17);
+}
+
+.email-btn {
+    background: var(--red);
+    color:white;
+    font-family: 'Grenze';
+    font-size: 24px;
+    border-radius: 0px;
+    border: 1px solid var(--red);
+    height: 48px;
+    margin-right: auto;
+    min-width: 190px;
+}
+
+.email-input {
+    background: rgba(255,255,255,0.25);
+    color: white;
+    border: 1px solid white;
+    margin: 0 8px 0 auto;
+    width:329px;
+    height: 48px;
+    border-radius: 0px;
+    
+}
+
+/* Input placeholder colors */
+.form-control::-webkit-input-placeholder { color: rgba(255,255,255,0.75); } 
+.form-control:-moz-placeholder { color: rgba(255,255,255,0.75); }
+.form-control::-moz-placeholder { color: rgba(255,255,255,0.75); }
+.form-control:-ms-input-placeholder { color: rgba(255,255,255,0.75); }
+.form-control::-ms-input-placeholder { color: rgba(255,255,255,0.75); }
+
+.form-control:focus {
+    background-color: rgba(255,255,255,0.25);
+    border-color: white;
+    box-shadow: 0 0 0 0.2rem rgba(255,255,255,.50);
+    color: white;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(66, 10, 10, 0.658);
+}
+
+.form-group {
+    display: flex;
+    margin: auto;
+}
+
+.footer {
+    background-color: var(--b87);
+    height: 700px;
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    overflow: hidden;
+    padding: 0 0 0 0;
+ }
+
+
+.weapon-img{
+    position: absolute; 
+    align-self: center; 
+    z-index: -1;
+    width: 100vw;
+    height: 100%;
+}
+
+
