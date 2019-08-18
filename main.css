@@ -169,4 +169,57 @@ h1 {
     height: 100%;
 }
 
+.class-icons{
+    margin:40px 0 40px 0;
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+    .form-group {
+        display: block;
+        margin: auto;
+    }
+
+    .traveler-img {
+        background-image: url(img/travelers.svg);
+        background-size: cover; 
+        height: auto;
+     }
+
+    .email-input {
+        background: rgba(255,255,255,0.25);
+        color: white;
+        border: 1px solid white;
+        margin: 0 2% 16px 2%;
+        width:96%;
+        height: 48px;
+        border-radius: 0px;
+    }
+
+    .row {
+        padding: 0 0 24px 0;
+    }
+
+    .class-icons{
+        margin:20px 8px 20px 8px;
+        width: 80%;
+    }
+
+    .footer {
+        background-color: var(--b87);
+        height: auto;
+        position: relative;
+        display:auto;
+        justify-content: space-evenly;
+        flex-direction:;
+        overflow: hidden;
+        padding: 0 0 0 0;
+    }
+
+    .email-btn {
+        margin:0 2% 0 2%;
+        min-width: 96%;
+    }
+}
+
 
