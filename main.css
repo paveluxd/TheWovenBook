@@ -6,6 +6,11 @@ body{
     color:var(--black);
 }
 
+a {
+    color:white;
+    text-decoration: underline;
+}
+
 :root {
    --gold: rgb(190,150,85);
    --black: rgb(51,51,51);
