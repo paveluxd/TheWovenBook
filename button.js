@@ -1,6 +1,31 @@
-function showAlert(){
-  if($("#myAlert").find("div#myAlert2").length==0){
-    $("#myAlert").append("<div class='alert alert-success alert-dismissable' id='myAlert2'> <button type='button' class='close' data-dismiss='alert'  aria-hidden='true'>&times;</button>Thanks for subscription!</div>");
-  }
-  $("#myAlert").css("display", "");
+$(function () {
+    var $form = $("#subscription");
+    var $secondaryForm = $("#secondary-subscription");
+
+    var onSubmit = function (e) {
+        var $self = $(this);
+        e.preventDefault();
+
+        var email = $self.find("input[name=email]").val()
+        if (email == '') {
+            return;
+        }
+
+        var url = $self.attr('action');
+        $.ajax({
+            url: url,
+            type: 'post',
+            data: $self.serialize(),
+            success: function (data) {
+                showSuccessMessage();
+            }
+        });
+    };
+
+    $form.submit(onSubmit);
+    $secondaryForm.submit(onSubmit);
+});
+
+function showSuccessMessage() {
+    $("#success-message").show();
 }
