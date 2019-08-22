@@ -120,7 +120,7 @@ h1 {
     color: white;
     border: 1px solid white;
     margin: 0 8px 0 auto;
-    width:329px;
+    width:320px;
     height: 48px;
     border-radius: 0px;
     
@@ -173,8 +173,14 @@ h1 {
     margin:40px 0 40px 0;
 }
 
-/* On screens that are 992px or less, set the background color to blue */
-@media screen and (max-width: 992px) {
+.team-img {
+    border-radius: 200px; 
+    height: 220px; 
+    width: 220px; 
+}
+
+/* On screens that are 600px or less*/
+@media screen and (max-width: 600px) {
     .form-group {
         display: block;
         margin: auto;
@@ -211,7 +217,6 @@ h1 {
         position: relative;
         display:auto;
         justify-content: space-evenly;
-        flex-direction:;
         overflow: hidden;
         padding: 40px 0 40px 0;
     }
@@ -225,6 +230,10 @@ h1 {
         border-radius: 200px; 
         height: 220px; 
         width: 220px; 
+    }
+
+    .img-fluid {
+        max-height: 200px; 
     }
 
 }
