@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <path d="M5,10 L5,8 L23,8 L23,10 L5,10 Z M5,15 L5,13 L23,13 L23,15 L5,15 Z M5,20 L5,18 L23,18 L23,20 L5,20 Z" id="Mask" fill-opacity="0.870000005" fill="#000000"></path>
+    </g>
+</svg>

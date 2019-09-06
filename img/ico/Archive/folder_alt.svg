@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>folder_alt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.99999583,20 L21.9999625,20 L21.9999625,10 L5.99999583,10 L5.99999583,20 Z M21.9999625,8 L13.9999792,8 L11.9999833,6 L5.99999583,6 C4.89499814,6 4.00999998,6.895 4.00999998,8 L4,20 C4,21.105 4.89499814,22 5.99999583,22 L21.9999625,22 C23.1049602,22 23.9999583,21.105 23.9999583,20 L23.9999583,10 C23.9999583,8.895 23.1049602,8 21.9999625,8 Z" id="path-1"></path>
+    </defs>
+    <g id="folder_alt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Page-1" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

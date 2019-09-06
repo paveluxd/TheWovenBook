@@ -1,0 +1,202 @@
+body {
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Roboto', 'Open Sans', 'Arial', sans-serif;
+    font-size: 16px;
+    color:var(--b87);
+}
+
+:root {
+    --g: rgb(190,150,85);
+    --g30: rgba(190,150,85,0.3);
+    --w: rgb(255,255,255);
+    --b5: rgba(0,0,0,0.05);
+    --b10: rgba(0,0,0,0.1);
+    --b17: rgba(0,0,0,0.17);
+    --b38: rgba(0,0,0,0.38);
+    --b54: rgba(0,0,0,0.54);
+    --b87: rgba(0,0,0,0.87);
+    --w0: rgba(255,255,255,0.0);
+    --w50: rgba(255,255,255,0.50);
+    --w75: rgba(255,255,255,0.90);
+    --red: linear-gradient(270deg, #E24033 0%, #CD4136 100%);
+}
+
+a {
+    color:white;
+    text-decoration: underline;
+}
+
+p {
+   margin:0 0 0 0;
+   line-height: 1.5;
+}
+
+h1 {
+    font-family: 'Grenze';
+    font-size: 36px;
+    color: var(--g);
+    position: -webkit-sticky;
+    position: sticky;
+    top:0px;
+    z-index: 1;
+    background-color: white;
+    height: 48px;
+    margin:80px 0 0px 40px;
+    padding-right: 4px;
+}
+
+.cmnt{
+    width:600px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px 0px 8px;
+    margin: 20px 36px 20px 36px;
+    flex-grow: 0;
+    background: linear-gradient(90deg, rgba(255,255,255,0) 75%, rgba(0,0,0,0.05) 100%);
+    border-radius: 3px;
+}
+
+.control {
+    
+    /* background-color: var(--b10); */
+    display: flex;
+    flex-direction: column;
+    font-family: 'Grenze' , 'Roboto', sans-serif;
+    font-size: 24px;
+    color: var(--b38);
+    text-align: center;
+}
+
+.btn-ico{
+    border: none;
+    background-color: var(--w0);
+    width: 36px;
+    height: 36px;
+    margin: auto auto 0 auto;
+    padding:4px;
+    display: flex;
+}
+
+.btn-pri{
+    background-color: var(--g);
+    font-family: 'Grenze', 'Roboto', sans-serif;
+    font-size:24px;
+    color: white;
+    border-radius: 0px;
+    height: 48px;
+    width: 200px;
+    padding:auto 16px;
+    position: absolute;
+    right: 100px;
+    bottom: 16px;
+    border: 0px;
+}
+
+.btn-pri:hover {
+    color: white;
+    background-color: var(--g30);
+}
+
+textarea {
+    border: 1px solid var(--b17);
+    padding: 8px;
+    min-height: 140px;
+    max-height: 140px;
+    width: 100%;
+    border-radius: 3px;
+}
+
+.textarea {
+    position: absolute;
+    bottom: 72px;
+    left: 100px;
+}
+    
+.connection {
+    border-radius: 100%;
+    color:var(--b17);
+    border-width: 0px 0px 1px 1px ; 
+    z-index: -1;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    height: 48px;
+    display: flex;
+    align-content: flex-end;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 75%);;
+    z-index: 2;
+}
+
+header p {
+    display: block;
+    margin: auto 8px auto auto;
+}
+
+header .btn {
+    margin: auto 6px auto 0;
+}
+
+/* JsPlumb*/
+svg path {
+    stroke: var(--g);
+    stroke-width:1;
+}
+
+svg rect {
+    fill:var(--g);
+  }
+
+/* Bootstrap overrides */
+
+.fade:not(.show) {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.modal-backdrop {
+    background-color: var(--b10);
+}
+
+.modal-dialog {
+    margin: 5vh auto;
+    max-width: 800px;
+}
+
+.modal.fade .modal-dialog {
+    -webkit-transform: translate(0,0px);
+    transform: translate(0,0px);
+}
+
+.btn.focus, .btn:focus {
+    box-shadow: 0 0 0 0.2em var(--g30);
+}
+
+.modal-content {
+    height: 90vh;
+    width: 800px;
+    border: 0px solid var(--b17);
+    border-radius: 0;
+    box-shadow: 0px 1px 3px var(--b17);
+    display: flex;
+    cursor: default;
+    position: relative;
+}
+
+.modal-body .cmnt{
+    margin: auto;
+}
+
+.modal-body {
+    padding: 0;
+
+}
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>submenu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,22 C16,23.104 15.104,24 14,24 C12.896,24 12,23.104 12,22 C12,20.896 12.896,20 14,20 C15.104,20 16,20.896 16,22 Z M16,14 C16,15.104 15.104,16 14,16 C12.896,16 12,15.104 12,14 C12,12.896 12.896,12 14,12 C15.104,12 16,12.896 16,14 Z M16,6 C16,7.104 15.104,8 14,8 C12.896,8 12,7.104 12,6 C12,4.896 12.896,4 14,4 C15.104,4 16,4.896 16,6 Z" id="path-1"></path>
+    </defs>
+    <g id="submenu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

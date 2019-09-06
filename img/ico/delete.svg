@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,6 L17.5,6 L16.5,5 L11.5,5 L10.5,6 L7,6 L7,8 L21,8 L21,6 Z M8,21 C8,22.105 8.895,23 10,23 L18,23 C19.105,23 20,22.105 20,21 L20,9 L8,9 L8,21 Z" id="path-1"></path>
+    </defs>
+    <g id="delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Page-1" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

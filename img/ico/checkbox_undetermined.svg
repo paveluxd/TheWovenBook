@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox_undetermined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,15 L19,15 L19,13 L9,13 L9,15 Z M21,5 L7,5 C5.9,5 5,5.9 5,7 L5,21 C5,22.1 5.9,23 7,23 L21,23 C22.1,23 23,22.1 23,21 L23,7 C23,5.9 22.1,5 21,5 Z" id="path-1"></path>
+    </defs>
+    <g id="checkbox_undetermined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-10" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

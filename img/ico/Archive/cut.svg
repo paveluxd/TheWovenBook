@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>cut</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,5 L15,11 L17,13 L24,6 L24,5 L21,5 Z M8,22 C6.895,22 6,21.105 6,20 C6,18.895 6.895,18 8,18 C9.105,18 10,18.895 10,20 C10,21.105 9.105,22 8,22 Z M8,10 C6.895,10 6,9.105 6,8 C6,6.895 6.895,6 8,6 C9.105,6 10,6.895 10,8 C10,9.105 9.105,10 8,10 Z M11.6395,9.64 C11.8645,9.14 12,8.585 12,8 C12,5.79 10.21,4 8,4 C5.79,4 4,5.79 4,8 C4,10.21 5.79,12 8,12 C8.585,12 9.1395,11.8645 9.6395,11.64 L12,14 L9.6395,16.36 C9.1395,16.135 8.585,16 8,16 C5.79,16 4,17.79 4,20 C4,22.21 5.79,24 8,24 C10.21,24 12,22.21 12,20 C12,19.415 11.8645,18.86 11.6395,18.36 L14,16 L21,23 L24,23 L24,22 L11.6395,9.64 Z" id="path-1"></path>
+    </defs>
+    <g id="cut" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Page-1" fill-opacity="0.87" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

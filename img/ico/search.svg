@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.82825,14.82825 C13.26625,16.39025 10.73325,16.39025 9.17125,14.82825 C7.60925,13.26625 7.60925,10.73325 9.17125,9.17125 C10.73325,7.60925 13.26625,7.60925 14.82825,9.17125 C16.39025,10.73325 16.39025,13.26625 14.82825,14.82825 M16.24325,7.75725 C13.89925,5.41425 10.10025,5.41425 7.75725,7.75725 C5.41425,10.10025 5.41425,13.89925 7.75725,16.24325 C9.85925,18.34425 13.12925,18.55525 15.47225,16.88625 L21.19225,22.60625 L22.60625,21.19225 L16.88625,15.47225 C18.55525,13.12925 18.34425,9.85925 16.24325,7.75725" id="path-1"></path>
+    </defs>
+    <g id="search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

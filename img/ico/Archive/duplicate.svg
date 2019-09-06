@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>duplicate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,15 L15,12 L17,12 L17,15 L20,15 L20,17 L17,17 L17,20 L15,20 L15,17 L12,17 L12,15 L15,15 Z M4,19 L4,5 C4,3.895 4.895,3 6,3 L18,3 L18,5 L6,5 L6,19 L4,19 Z M10,7 L22,7 C23.1045695,7 24,7.8954305 24,9 L24,23 C24,24.1045695 23.1045695,25 22,25 L10,25 C8.8954305,25 8,24.1045695 8,23 L8,9 C8,7.8954305 8.8954305,7 10,7 Z M10.0001,22.9999 L22,22.9999 L22,8.9999 L10.0001,8.9999 L10.0001,22.9999 Z" id="path-1"></path>
+    </defs>
+    <g id="duplicate" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill-opacity="0.87" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

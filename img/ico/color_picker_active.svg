@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>color_picker_active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,25 C7.925,25 3,20.075 3,14 C3,7.925 7.925,3 14,3 C20.075,3 25,7.925 25,14 C25,20.075 20.075,25 14,25 M14,1 C21.18,1 27,6.82 27,14 C27,21.18 21.18,27 14,27 C6.82,27 1,21.18 1,14 C1,6.82 6.82,1 14,1 Z M23,14 C23,9.029 18.971,5 14,5 C9.029,5 5,9.029 5,14 C5,18.971 9.029,23 14,23 C18.971,23 23,18.971 23,14 Z" id="path-1"></path>
+    </defs>
+    <g id="color_picker_active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>
