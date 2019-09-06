@@ -1,4 +1,5 @@
 
+//Code that adds class to body to enable drag scrolling
 window.addEventListener('keydown', function(e) {
     if(e.keyCode == 32 && e.target == document.body) {
       e.preventDefault();
@@ -18,5 +19,43 @@ window.addEventListener('keydown', function(e) {
           }
         remove();
     }
+};
+
+// Code that connects paragraphs
+
+document.body.onload = function(e){
+
+  jsPlumb.connect({ 
+      source:"p1-1",
+      target:"p2-1",
+      connector:[ "Straight" ],
+      anchors:[ "RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p1-1",
+      target:"p2-2",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p1-1",
+      target:"p2-3",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p1-2",
+      target:"p2-4",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+  
 };
 
