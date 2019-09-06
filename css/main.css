@@ -116,7 +116,7 @@ textarea {
     bottom: 72px;
     left: 100px;
 }
-    
+
 .connection {
     border-radius: 100%;
     color:var(--b17);
@@ -153,7 +153,7 @@ svg path {
 
 svg rect {
     fill:var(--g);
-  }
+}
 
 /* Bootstrap overrides */
 
@@ -198,5 +198,46 @@ svg rect {
 .modal-body {
     padding: 0;
 
+}
+
+/* Landing screen */
+
+.cover {
+    background-image: url(/img/cover.svg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size:auto 100%;
+
+    display: flex;
+    flex-direction:column; 
+}
+
+.box {
+    display: flex;
+    flex-direction:column;
+    width:464px;
+    height: 100%;
+    margin: auto auto auto auto;
+    background-color: var(--w75);
+}
+
+.box img {
+    margin: 25vh auto 40px auto; 
+}
+.email-input {
+    background: rgba(255,255,255,0.25);
+    color: white;
+    border: 1px solid var(--b17);
+    margin: 0 auto 16px auto;
+    width: 320px;
+    height: 48px;
+    border-radius: 0px;
+}
+
+.box button {
+ position: static;
+ margin: 0 auto auto auto;
+ width: 320px;
 }
 
