@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>radio_on</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,22 C9.58,22 6,18.42 6,14 C6,9.58 9.58,6 14,6 C18.42,6 22,9.58 22,14 C22,18.42 18.42,22 14,22 M14,4 C8.475,4 4,8.475 4,14 C4,19.525 8.475,24 14,24 C19.525,24 24,19.525 24,14 C24,8.475 19.525,4 14,4 M14,9 C11.24,9 9,11.24 9,14 C9,16.7605 11.24,19 14,19 C16.76,19 19,16.7605 19,14 C19,11.24 16.76,9 14,9" id="path-1"></path>
+    </defs>
+    <g id="radio_on" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-5" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

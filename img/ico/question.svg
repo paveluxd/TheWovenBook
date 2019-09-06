@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>question</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.065,13.255 L16.17,14.175 C15.45,14.895 15,15.5 15,17 L13,17 L13,16.5 C13,15.395 13.45,14.395 14.17,13.67 L15.415,12.41 C15.775,12.05 16,11.55 16,11 C16,9.895 15.105,9 14,9 C12.895,9 12,9.895 12,11 L10,11 C10,8.79 11.79,7 14,7 C16.21,7 18,8.79 18,11 C18,11.88 17.645,12.675 17.065,13.255 Z M13,21 L13,19 L15,19 L15,21 L13,21 Z" id="path-1"></path>
+    </defs>
+    <g id="question" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Mask" fill="#0096FF" x="4" y="4" width="20" height="20" rx="2"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>

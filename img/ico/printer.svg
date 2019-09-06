@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>printer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,10 L20,10 L20,6 L8,6 L8,10 Z M21,15 C20.445,15 20,14.555 20,14 C20,13.445 20.445,13 21,13 C21.555,13 22,13.445 22,14 C22,14.555 21.555,15 21,15 Z M10,22 L18,22 L18,17 L10,17 L10,22 Z M21,11 L7,11 C5.345,11 4,12.345 4,14 L4,20 L8,20 L8,24 L20,24 L20,20 L24,20 L24,14 C24,12.345 22.655,11 21,11 Z" id="path-1"></path>
+    </defs>
+    <g id="printer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Page-1" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,22 C10.135,22 7,18.865 7,15 C7,11.135 10.135,8 14,8 C17.865,8 21,11.135 21,15 C21,18.865 17.87,22 14,22 Z M13.995,6 C9.02,6 5,10.03 5,15 C5,19.97 9.02,24 13.995,24 C18.97,24 23,19.97 23,15 C23,10.03 18.97,6 13.995,6 Z M14.5,10 L13,10 L13,16 L17.745,18.855 L18.5,17.62 L14.5,15.25 L14.5,10 Z M9.88,5.39 L8.595,3.86 L4,7.715 L5.285,9.245 L9.88,5.39 Z M24,7.72 L19.405,3.865 L18.12,5.395 L22.715,9.25 L24,7.72 Z" id="path-1"></path>
+    </defs>
+    <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Page-1" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

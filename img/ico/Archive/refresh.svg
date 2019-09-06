@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>refresh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,6 C9.6,6 6,9.6 6,14 C6,18.4 9.6,22 14,22 C17.7,22 20.8,19.4 22,16 L20,16 C18.8,18.3 16.6,20 14,20 C10.7,20 8,17.3 8,14 C8,10.7 10.7,8 14,8 C15.7,8 17.1,8.7 18,10 L15,13 L22,13 L22,6 L20,8 C18.2,7 16.2,6 14,6 Z" id="path-1"></path>
+    </defs>
+    <g id="refresh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

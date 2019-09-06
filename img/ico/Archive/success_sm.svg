@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>success_sm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.3890873,5.3890873 L6.3890873,4.3890873 L10.3890873,4.3890873 L10.3890873,5.3890873 L7.3890873,5.3890873 L7.3890873,11.3890873 L6.3890873,11.3890873 L6.3890873,5.3890873 Z" id="path-1"></path>
+    </defs>
+    <g id="success_sm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="17" height="17" rx="2"></rect>
+        <rect id="Path" fill="#64AA2D" x="2" y="2" width="13" height="13" rx="2"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#FFFFFF" transform="translate(8.389087, 7.889087) rotate(225.000000) translate(-8.389087, -7.889087) " xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>drag_handle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,7 L12,7 L12,9 L10,9 L10,7 Z M10,13 L12,13 L12,15 L11.8693626,15 L10,15 L10,13 Z M10,19 L12,19 L12,21 L10,21 L10,19 Z M16,7 L18,7 L18,9 L16,9 L16,7 Z M16,13 L18,13 L18,15 L17.8693626,15 L16,15 L16,13 Z M16,19 L18,19 L18,21 L16,21 L16,19 Z" id="path-1"></path>
+    </defs>
+    <g id="drag_handle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

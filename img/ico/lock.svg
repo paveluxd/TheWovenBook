@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,10 C21.105,10 22,10.895 22,12 L22,22 C22,23.105 21.105,24 20,24 L8,24 C6.895,24 6,23.105 6,22 L6,12 C6,10.895 6.895,10 8,10 L9,10 L9,8 C9,5.2395 11.24,3 14,3 C16.7605,3 19,5.2395 19,8 L19,10 L20,10 Z M8,22 L20,22 L20,12 L8,12 L8,22 Z M14,4.9 C12.29,4.9 10.9005,6.29 10.9005,8 L11,8 L11,10 L17.1,10 L17.1,8 C17.1,6.29 15.7105,4.9 14,4.9 Z M14,19 C12.895,19 12,18.105 12,17 C12,15.895 12.895,15 14,15 C15.105,15 16,15.895 16,17 C16,18.105 15.105,19 14,19 Z" id="path-1"></path>
+    </defs>
+    <g id="lock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill-opacity="0.87" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>lock_open</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.9999708,10 C21.1049685,10 21.9999667,10.895 21.9999667,12 L21.9999667,22 C21.9999667,23.105 21.1049685,24 19.9999708,24 L7.99999583,24 C6.89499814,24 6,23.105 6,22 L6,12 C6,10.895 6.89499814,10 7.99999583,10 L17.0999769,10 L17.0999769,8 C17.0999769,6.29 15.7099798,4.9 13.9999833,4.9 C12.2899869,4.9 10.8999898,6.29 10.8999898,8 L8.99999375,8 C8.99999375,5.24 11.2399891,3 13.9999833,3 C16.7599776,3 18.9999729,5.24 18.9999729,8 L18.9999729,10 L19.9999708,10 Z M7.99999583,22 L19.9999708,22 L19.9999708,12 L7.99999583,12 L7.99999583,22 Z M13.9999833,19 C12.8949856,19 11.9999875,18.105 11.9999875,17 C11.9999875,15.895 12.8949856,15 13.9999833,15 C15.104981,15 15.9999792,15.895 15.9999792,17 C15.9999792,18.105 15.104981,19 13.9999833,19 Z" id="path-1"></path>
+    </defs>
+    <g id="lock_open" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill-opacity="0.87" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>

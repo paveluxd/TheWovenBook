@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>people</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,16 C17.71,16 17.385,16.02 17.035,16.055 C18.195,16.89 19,18.015 19,19.5 L19,22 L25,22 L25,19.5 C25,17.17 20.335,16 18,16 M10,16 C7.665,16 3,17.17 3,19.5 L3,22 L17,22 L17,19.5 C17,17.17 12.335,16 10,16 M10,14 C11.655,14 12.99,12.655 12.99,11 C12.99,9.345 11.655,8 10,8 C8.345,8 7,9.345 7,11 C7,12.655 8.345,14 10,14 M18,14 C19.655,14 20.99,12.655 20.99,11 C20.99,9.345 19.655,8 18,8 C16.345,8 15,9.345 15,11 C15,12.655 16.345,14 18,14" id="path-1"></path>
+    </defs>
+    <g id="people" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="container" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="28" height="28"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Page-1" fill-opacity="0.870000005" fill="#000000" xlink:href="#path-1"></use>
+    </g>
+</svg>
