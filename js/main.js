@@ -56,6 +56,88 @@ document.body.onload = function(e){
       anchors:["RightMiddle", "LeftMiddle"],
       endpoint:["Rectangle", { width:5, height:5 }],  
   });
+
+  //C2 -> C3
+
+  jsPlumb.connect({ 
+      source:"p2-1",
+      target:"p3-1",
+      connector:[ "Straight" ],
+      anchors:[ "RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+    source:"p2-1",
+    target:"p3-2",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p2-1",
+      target:"p3-3",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p2-1",
+      target:"p3-4",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p2-1",
+      target:"p3-5",
+      connector:[ "Straight" ],
+      anchors:[ "RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+    source:"p2-1",
+    target:"p3-6",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p2-1",
+      target:"p3-7",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+      source:"p2-1",
+      target:"p3-8",
+      connector:[ "Straight" ],
+      anchors:["RightMiddle", "LeftMiddle"],
+      endpoint:["Rectangle", { width:5, height:5 }],  
+  });
+
+  jsPlumb.connect({ 
+    source:"p2-1",
+    target:"p3-9",
+    connector:[ "Straight" ],
+    anchors:["RightMiddle", "LeftMiddle"],
+    endpoint:["Rectangle", { width:5, height:5 }],  
+});
+
+jsPlumb.connect({ 
+    source:"p2-2",
+    target:"p3-10",
+    connector:[ "Straight" ],
+    anchors:["RightMiddle", "LeftMiddle"],
+    endpoint:["Rectangle", { width:5, height:5 }],  
+});
   
 };
 
